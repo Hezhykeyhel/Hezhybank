@@ -1,0 +1,155 @@
+body{
+    width: 99%;
+    height: 680px ;
+}
+.img{
+    background-size: cover;
+    width: 100%;
+    height: 670px;
+    display: flex;
+    justify-content: stretch;
+}
+.start-up{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 36%;
+    position: relative;
+    bottom: 200px;
+}
+.login-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20%;
+    position: relative;
+    bottom: 580px;
+    right: 150px;
+    left: 10px;
+    width: 45em;
+    height: 400px;
+    background: white;
+    opacity: 0.82;
+    border-radius: 30px;
+    text-decoration: none;
+    box-shadow: 2px 2px rgb(247, 29, 29);
+    outline: none;
+}
+hr{
+    outline: none;
+    text-decoration: solid;
+    width: 100px;
+    position: relative;
+    right: 180px;
+    bottom: 10px;
+    font-weight: bold;
+    background-color: rgb(75, 11, 11);
+}
+h1{
+    color: rgb(153, 202, 186);
+    font-family: "Arial", "sans-serif";
+    position: relative;
+    right: 20px;
+}
+.sec{
+    color: rgb(88, 61, 61);
+    position: relative;
+    right: 125px;
+}
+.third{
+        color: rgb(56, 65, 5);
+        position: relative;
+        left: 90px;
+}
+.con-btn{
+        color: rgb(18, 161, 78);
+        position: relative;
+        left: 300px;
+}
+input{
+    padding: 1em;
+    border-style: none;
+    background: rgb(205, 230, 227);
+    border-radius: 20px;
+    width: 30em;
+    text-decoration: none;
+    box-shadow: 1.7px 1.7px rgb(20, 20, 124);
+    position: relative;
+    left: 150px;
+    outline: none;
+
+}
+button{
+    padding: 1em;
+    background: rgb(216, 248, 140);
+    border-style: none;
+    border: none;
+    box-shadow: 1.7px 1.7px rgb(20, 20, 124);
+    position: relative;
+    right: 100px;
+    width: 600px;
+    color: rgb(8, 97, 78);
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 20px;
+    outline: none;
+}
+.con{
+    padding: 1em;
+    background: rgb(216, 248, 140);
+    border-style: none;
+    border: none;
+    width: 300px;
+    color: rgb(8, 97, 78);
+    font-weight: bold;
+    position: relative;
+    left: 200px;
+    font-size: large;
+    border-radius: 20px;
+    box-shadow: 1.7px 1.7px rgb(20, 20, 124);   
+}
+span{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    width: 30%;
+
+    position: relative;
+    left: 70px;
+    bottom: 5px;
+}
+.secpag{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    width: 30%;
+    position: relative;
+    left: 70px;
+    top: 10px;
+    
+}
+.thirdpag{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    width: 30%;
+    position: relative;
+    left: 250px;
+    top: 15px;
+    
+    
+}
+i{
+    width: 20%;
+    position: relative;
+    right: 40px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.footer{
+    width: 3vw;
+    height: 20px;
+    
+}

@@ -71,7 +71,7 @@ input{
     border-style: none;
     background: rgb(205, 230, 227);
     border-radius: 20px;
-    width: 30em;
+    width: 30vw;
     text-decoration: none;
     box-shadow: 1.7px 1.7px rgb(20, 20, 124);
     position: relative;
@@ -87,7 +87,7 @@ button{
     box-shadow: 1.7px 1.7px rgb(20, 20, 124);
     position: relative;
     right: 100px;
-    width: 600px;
+    width:50%;
     color: rgb(8, 97, 78);
     font-weight: bolder;
     font-size: large;
